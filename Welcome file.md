@@ -31,8 +31,8 @@ Estos factores se clasifican de la siguiente forma:
 	 - Personales (salud, edad, género, nivel de experiencia)
 
  - Según su gravedad y frecuencia
-	 - Críticos ()
-	 - Latentes
+	 - Críticos (riesgo que causa daño inmediato)
+	 - Latentes (riesgo que daña a largo plazo)
 
 ## 3. Prevención
 
@@ -180,5 +180,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzQ3MjU3Ml19
+eyJoaXN0b3J5IjpbLTEyMjM0MTcwNjBdfQ==
 -->
