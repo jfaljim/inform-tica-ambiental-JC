@@ -35,8 +35,11 @@ Algunos de los ejemplos más comunes son:
 
  - Ergonomía:
 	 - Espalda recta
-	 - Manos, muñeca y antebrazos
-
+	 - Manos, muñecas y antebrazos en línea recta
+	 - Codos pegados al cuerpo
+	 - Brazo y antebrazo a 90º
+	 - Hombros relajados
+![Cómo elegir una silla ergonómica: Características - Blog Ofiprix](https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg)
 
 ## Rename a file
 
@@ -165,5 +168,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgyMDQ1MTNdfQ==
+eyJoaXN0b3J5IjpbMjUxMjc3MjA5XX0=
 -->
