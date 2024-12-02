@@ -15,6 +15,7 @@ Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-
 Los factores de riesgo son elementos, condiciones o sucesos que aumentan la probabilidad de que ocurra un daño, accidente o enfermedad
 
 Estos factores se clasifican de la siguiente forma:
+
  - Según su origen:
 	 - Físicos (ruidos, vibraciones, radicaciones...)
 	 - Químicos (gases, vapores, líquidos...)
@@ -23,11 +24,12 @@ Estos factores se clasifican de la siguiente forma:
 	 - Psicosociales (estrés laboral, acoso laboral, monotonía...)
 	 - Mecánicos (herramientas o equipos en mal estado...)
 	 - Eléctricos (exposición a instalaciones eléctricas defectuosas)
-
-
-
-
-
+ - Según su ámbito de influencia:
+	 - Laborales
+	 - Ambientales
+	 - Personales
+ - Según su gravedad y frecuencia
+	 - Críticos
 
 ## 3. Prevención
 
@@ -175,5 +177,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU0ODc4NTJdfQ==
+eyJoaXN0b3J5IjpbMTc0OTM5NV19
 -->
