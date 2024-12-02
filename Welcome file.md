@@ -34,7 +34,8 @@ Algunos de los ejemplos más comunes son:
 
  - Seguridad física:
 	 - Usar equipo deprotección personal: cascos, guantes, gafas, zapatos de seguridad...
-	 - 
+	 - Control de acceso: sistemas de identificación para zona de alto riesgo
+	 - Mantenimiento periódico: inspeccionar y reparar 
  - Ergonomía:
 	 - Espalda recta
 	 - Manos, muñecas y antebrazos en línea recta
@@ -171,5 +172,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDY3NjYwMl19
+eyJoaXN0b3J5IjpbODc0MTEyNDcwXX0=
 -->
