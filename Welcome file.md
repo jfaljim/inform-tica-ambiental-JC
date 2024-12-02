@@ -13,7 +13,15 @@ Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-
 
 ## 2. Factores de riesgo
 Los factores de riesgo son elementos, condiciones o sucesos que aumentan la probabilidad de que ocurra un daño, accidente o enfermedad
-Alguno de los factores de riesgo más importantes son:
+Estos factores se clasifican de la siguiente forma:
+
+ - Según su origen:
+	 - Físicos
+	 - Químicos
+	 - Biológicos
+	 - Ergonómicos
+	 - Psicosociales
+
 ![Factores de riesgo laboral - Coordinacion Empresarial](https://www.coordinacionempresarial.com/wp-content/uploads/2015/12/Factores-Riesgos-Laborales.png)
 
 
@@ -164,5 +172,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE3ODExMV19
+eyJoaXN0b3J5IjpbMTk3MzU4Njc1OV19
 -->
