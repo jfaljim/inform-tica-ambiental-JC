@@ -12,17 +12,8 @@ Los puntos de los que hablaremos son los siguientes:
 Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-trabajo o trabajo-casa, aunque este tipo de accidente se llama in itinere
 
 ## 2. Factores de riesgo
-Los factores de riesgo son 
+Los factores de riesgo son elementos, condiciones o sucesos que aumentan la probabilidad de que ocurra un daño, accidente o enfermedad
 Alguno de los factores de riesgo más importantes son:
- - Manipulación de herramientas
- - Posturas forzadas
- - Carga mental, desgaste visual o estrés
- - Materiales con riesgo de incendio
- - Contacto de elementos químicos
- - Manipulación carga
- - Manipulación de carga
- - Manipulación de equipos eléctricos y electrónicos
- - Zonas ruidosas
 ![Factores de riesgo laboral - Coordinacion Empresarial](https://www.coordinacionempresarial.com/wp-content/uploads/2015/12/Factores-Riesgos-Laborales.png)
 
 
@@ -173,5 +164,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc0NjcxMTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMzE3ODExMV19
 -->
