@@ -16,12 +16,12 @@ Los factores de riesgo son elementos, condiciones o sucesos que aumentan la prob
 Estos factores se clasifican de la siguiente forma:
 
  - Según su origen:
-	 - Físicos (ruidos, vibraciones, radicaciones)
-	 - Químicos (gases, vapores, líquidos)
-	 - Biológicos (bacterias, virus, hongos)
-	 - Ergonómicos ()
-	 - Psicosociales
-	 - Mecánicos
+	 - Físicos (ruidos, vibraciones, radicaciones...)
+	 - Químicos (gases, vapores, líquidos...)
+	 - Biológicos (bacterias, virus, hongos...)
+	 - Ergonómicos (malas posturas, movimientos repetitivos...)
+	 - Psicosociales (estrés laboral, acoso laboral, monotonía...)
+	 - Mecánicos (herramientas o equipos en mal estado)
 	 - Eléctricos
 
 ![Factores de riesgo laboral - Coordinacion Empresarial](https://www.coordinacionempresarial.com/wp-content/uploads/2015/12/Factores-Riesgos-Laborales.png)
@@ -174,5 +174,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NjI2NDEyXX0=
+eyJoaXN0b3J5IjpbLTE5NjYwMTU2NjldfQ==
 -->
