@@ -11,7 +11,7 @@ Los puntos de los que hablaremos son los siguientes:
 
 Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-trabajo o trabajo-casa, aunque este tipo de accidente se llama in itinere
 
-## 2. Factores de riesgo
+## 2. Factores de riesgo laboral
 Los factores de riesgo son elementos, condiciones o sucesos que aumentan la probabilidad de que ocurra un daño, accidente o enfermedad
 
 Estos factores se clasifican de la siguiente forma:
@@ -34,7 +34,7 @@ Estos factores se clasifican de la siguiente forma:
 	 - Críticos (riesgo que causa daño inmediato)
 	 - Latentes (riesgo que daña a largo plazo)
 
-## 3. Prevención
+## 3. Prevención laboral
 
 Esto hace referencia a los actos que se hacen para prevenir y evitar tanto riesgos como accidentes laborales
 Esto se hace de distintas formas para cada puesto de trabajo, ya que cada uno de ellos es diferente entre sí
@@ -180,5 +180,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5ODY3MDM4XX0=
+eyJoaXN0b3J5IjpbMTM5Nzk0MjgwNF19
 -->
