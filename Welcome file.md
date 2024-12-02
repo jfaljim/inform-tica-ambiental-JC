@@ -11,7 +11,7 @@ Los puntos de los que hablaremos son los siguientes:
 
 Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-trabajo o trabajo-casa, aunque este tipo de accidente se llama in itinere
 
-En España, este año
+En España, este año, ha habido unos 67000 casos de accidente laboral, siendo in itinere 13412 de ellos
 
 ## 2. Factores de riesgo laboral
 Los factores de riesgo son elementos, condiciones o sucesos que aumentan la probabilidad de que ocurra un daño, accidente o enfermedad
@@ -182,5 +182,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjcwNTQ0NjhdfQ==
+eyJoaXN0b3J5IjpbLTE3NDAzNjMyNDVdfQ==
 -->
