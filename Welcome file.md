@@ -32,6 +32,9 @@ Esto hace referencia a los actos que se hacen para prevenir y evitar tanto riesg
 Esto se hace de distintas formas para cada puesto de trabajo, ya que cada uno de ellos es diferente entre sí
 Algunos de los ejemplos más comunes son:
 
+ - Seguridad física:
+	 - Usar equipo deprotección personal: cascos, guantes, gafas, zapatos de seguridad...
+	 - 
  - Ergonomía:
 	 - Espalda recta
 	 - Manos, muñecas y antebrazos en línea recta
@@ -168,5 +171,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjQwMjc1NV19
+eyJoaXN0b3J5IjpbMTM3NDY3NjYwMl19
 -->
