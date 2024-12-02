@@ -31,7 +31,12 @@ Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-
 
 Esto hace referencia a los actos que se hacen para prevenir y evitar tanto riesgos como accidentes laborales
 Esto se hace de distintas formas para cada puesto de trabajo, ya que cada uno de ellos es diferente entre sí
-Alguno
+Algunos de los ejemplos más comunes son:
+
+ - Ergonomía:
+	 - Espalda recta
+	 - Manos, muñeca y antebrazos
+
 
 ## Rename a file
 
@@ -160,5 +165,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MzQ3NTI4XX0=
+eyJoaXN0b3J5IjpbLTE5NjgyMDQ1MTNdfQ==
 -->
