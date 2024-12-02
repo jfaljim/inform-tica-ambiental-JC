@@ -24,12 +24,15 @@ Estos factores se clasifican de la siguiente forma:
 	 - Psicosociales (estrés laboral, acoso laboral, monotonía...)
 	 - Mecánicos (herramientas o equipos en mal estado...)
 	 - Eléctricos (exposición a instalaciones eléctricas defectuosas)
+	 
  - Según su ámbito de influencia:
-	 - Laborales
-	 - Ambientales
-	 - Personales
+	 - Laborales (condiciones de trabajo o entorno)
+	 - Ambientales (contaminación o desastres naturales)
+	 - Personales (salud, edad, género, nivel de experiencia)
+
  - Según su gravedad y frecuencia
-	 - Críticos
+	 - Críticos ()
+	 - Latentes
 
 ## 3. Prevención
 
@@ -177,5 +180,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTM5NV19
+eyJoaXN0b3J5IjpbMTkwMzQ3MjU3Ml19
 -->
