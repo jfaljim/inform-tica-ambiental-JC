@@ -1,6 +1,6 @@
 # Seguridad en el trabajo
 
-En esta parte del trabajo hablaremos sobre la unidad 2, **Seguridad en el trabajo** 
+En esta parte del trabajo hablaremos sobre la unidad **2. Seguridad en el trabajo** 
 Los puntos de los que hablaremos son los siguientes:
 
  1. Definición de accidente
@@ -180,5 +180,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM0MTcwNjBdfQ==
+eyJoaXN0b3J5IjpbMzk5ODY3MDM4XX0=
 -->
