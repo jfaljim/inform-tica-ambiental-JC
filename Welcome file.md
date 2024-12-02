@@ -12,7 +12,8 @@ Los puntos de los que hablaremos son los siguientes:
 Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-trabajo o trabajo-casa, aunque este tipo de accidente se llama in itinere
 
 ## 2. Factores de riesgo
-
+Los factores de riesgo son 
+Alguno de los factores de riesgo más importantes son:
  - Manipulación de herramientas
  - Posturas forzadas
  - Carga mental, desgaste visual o estrés
@@ -35,7 +36,7 @@ Algunos de los ejemplos más comunes son:
  - Seguridad física:
 	 - Usar equipo deprotección personal: cascos, guantes, gafas, zapatos de seguridad...
 	 - Control de acceso: sistemas de identificación para zona de alto riesgo
-	 - Mantenimiento periódico: inspeccionar y reparar 
+	 - Mantenimiento periódico: inspeccionar y reparar regularmente las máquinas, herramientas y/o equipos
  - Ergonomía:
 	 - Espalda recta
 	 - Manos, muñecas y antebrazos en línea recta
@@ -172,5 +173,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MTEyNDcwXX0=
+eyJoaXN0b3J5IjpbLTEzNjc0NjcxMTBdfQ==
 -->
