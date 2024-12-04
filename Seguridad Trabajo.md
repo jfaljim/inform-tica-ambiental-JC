@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="seguridad-en-el-trabajo">Seguridad en el trabajo</h1>
 <p>En esta parte del trabajo hablaremos sobre la unidad <strong>2. Seguridad en el trabajo</strong><br>
 Los puntos de los que hablaremos son los siguientes:</p>
@@ -71,7 +76,3 @@ Algunos de los ejemplos más comunes son:</p>
 </ul>
 <p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU5NzczMjIsMTQzMTE0NjYzNCwtMT
-U0OTQzMDE0MCwtNjI3NzQzMjYyLDQzNDAzMjk0NF19
--->
