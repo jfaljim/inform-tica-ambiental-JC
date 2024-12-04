@@ -52,6 +52,7 @@ Algunos de los ejemplos más comunes son:</p>
 <li>Control de acceso: sistemas de identificación para zona de alto riesgo</li>
 <li>Mantenimiento periódico: inspeccionar y reparar regularmente las máquinas, herramientas y/o equipos</li>
 </ul>
+<p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 </li>
 <li>Ergonomía:
 <ul>
@@ -66,5 +67,6 @@ Algunos de los ejemplos más comunes son:</p>
 <p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzc0MzI2Miw0MzQwMzI5NDRdfQ==
+eyJoaXN0b3J5IjpbMTY3NTMzMTY5MCwtNjI3NzQzMjYyLDQzND
+AzMjk0NF19
 -->
