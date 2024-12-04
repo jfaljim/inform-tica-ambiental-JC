@@ -1,8 +1,27 @@
- 
 ﻿# Introducción: Importancia del reciclaje electrónico
 
 -   No reciclar equipos electrónicos libera materiales peligrosos como metales pesados (plomo, cadmio, mercurio) al medioambiente.
 -   Los residuos electrónicos son altamente contaminantes y requieren un manejo adecuado para minimizar su impacto.
+
+# Actividades relacionadas con la informática que contaminan el medio ambiente
+
+* Fabricación de equipos electrónicos
+	* Impactos: Producción de residuos químicos, consumo de energía no renovable, emisión de gases de efecto invernadero
+	* Ejemplo: 
+		* Técnicos de ensamblaje en fábricas
+		* Ingenieros de diseño de componentes electrónicos.
+* Centros de datos y servidores
+	* Impactos: Altísimo consumo energético, generación de calor, emisiones indirectas de CO2
+	* por fuentes de energía no renovables
+	* Ejemplo:
+		* Administradores de sistemas y redes
+		* Técnicos de mantenimiento de centros de datos
+* Minería de criptomonedas
+	* Impactos: Consumo intensivo de electricidad de fuentes no sostenibles, generación de calor
+	*Ejemplo:
+		* Operadores de granjas de minería
+
+
 
 # Disposición correcta de residuos electrónicos
 -   Los componentes electrónicos deben depositarse en puntos limpios o en el establecimiento donde se adquirieron.
@@ -28,6 +47,13 @@
 
 	-   Monitores CRT contienen hasta 2 kg de plomo. Su reciclaje es crítico.
 	-   El 97% de un ordenador puede ser reutilizado o reciclado.
+
+![enter image description here](https://acsrecycling.es/wp-content/uploads/2023/10/Conoces-la-importancia-del-proceso-del-reciclaje-de-pilas-y-baterias.png)
+**Beneficios de reciclar:**
+-* Permite recuperar metales o materiales como el silicio,plásticos, oro, plata, cobre, etc... .Estos son cada vez más escasos y cuya obtención, a través de la minería, genera un alto impacto ambiental.
+
+-* Se reduce el impacto que estos residuos general en el medio ambiente al degradarse en basureros, contaminando napas y suelos*
+
 # Reducción del impacto ambiental
 
 -   Optimizar el uso de equipos (desinstalar software innecesario, apagarlos cuando no se usen).
@@ -42,7 +68,4 @@ Equipos funcionales pueden ser enviados a escuelas y entidades en países en des
 
 # Conclusión
 
-Reciclar y reutilizar dispositivos electrónicos no solo protege el medioambiente, sino que también contribuye a un manejo más sostenible de los recursos, reduce costos y apoya comunidades en necesidad.>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk4NjcxN119
--->
+Reciclar y reutilizar dispositivos electrónicos no solo protege el medioambiente, sino que también contribuye a un manejo más sostenible de los recursos, reduce costos y apoya comunidades en necesidad.
