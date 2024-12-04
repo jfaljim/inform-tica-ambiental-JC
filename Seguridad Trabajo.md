@@ -3,6 +3,8 @@
 
 ---
 
+<hr>
+<hr>
 <h1 id="seguridad-en-el-trabajo">Seguridad en el trabajo</h1>
 <p>En esta parte del trabajo hablaremos sobre la unidad <strong>2. Seguridad en el trabajo</strong><br>
 Los puntos de los que hablaremos son los siguientes:</p>
@@ -32,6 +34,7 @@ Los puntos de los que hablaremos son los siguientes:</p>
 <li>Eléctricos (exposición a instalaciones eléctricas defectuosas)</li>
 </ul>
 </li>
+<br>
 <p><img src="https://img.interempresas.net/A/A875/3157711.webp"></p>
 <li>
 <p>Según su ámbito de influencia:</p>
@@ -62,6 +65,7 @@ Algunos de los ejemplos más comunes son:</p>
 <li>Control de acceso: sistemas de identificación para zona de alto riesgo</li>
 <li>Mantenimiento periódico: inspeccionar y reparar regularmente las máquinas, herramientas y/o equipos</li>
 </ul>
+<br>
 <p><img src="https://previews.123rf.com/images/bortn66/bortn661112/bortn66111200013/11598172-la-construcci%C3%B3n-del-casco-y-guantes-de-protecci%C3%B3n-en-el-fondo-blanco.jpg"></p>
 </li>
 <li>Ergonomía:
@@ -74,5 +78,6 @@ Algunos de los ejemplos más comunes son:</p>
 </ul>
 </li>
 </ul>
+<br>
 <p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 
