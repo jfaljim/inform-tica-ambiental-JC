@@ -9,6 +9,7 @@ Los puntos de los que hablaremos son los siguientes:</p>
 <h2 id="definición-de-accidente-laboral">1. Definición de accidente laboral</h2>
 <p>Es el que sucede al trabajador durante su jornada laboral o en el trayecto casa-trabajo o trabajo-casa, aunque este tipo de accidente se llama in itinere</p>
 <p>En España, este año, ha habido unos 67000 casos de accidente laboral, siendo in itinere 13412 de ellos</p>
+<p>De todos estos casos, los relacionados con la informáticas han sucedido unos 2.458 casos en la jornada laboral y unos 881 en in itinere</p>
 <p><img src="https://www.ubicaseguros.com/wp-content/uploads/2020/10/accidente.jpeg"></p>
 <h2 id="factores-de-riesgo-laboral">2. Factores de riesgo laboral</h2>
 <p>Los factores de riesgo son elementos, condiciones o sucesos que aumentan la probabilidad de que ocurra un daño, accidente o enfermedad</p>
@@ -71,6 +72,6 @@ Algunos de los ejemplos más comunes son:</p>
 <p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTE0NjYzNCwtMTU0OTQzMDE0MCwtNj
-I3NzQzMjYyLDQzNDAzMjk0NF19
+eyJoaXN0b3J5IjpbLTE1NTAyNTM4MjgsMTQzMTE0NjYzNCwtMT
+U0OTQzMDE0MCwtNjI3NzQzMjYyLDQzNDAzMjk0NF19
 -->
