@@ -1,3 +1,4 @@
+ 
 ﻿# Introducción: Importancia del reciclaje electrónico
 
 -   No reciclar equipos electrónicos libera materiales peligrosos como metales pesados (plomo, cadmio, mercurio) al medioambiente.
@@ -41,4 +42,7 @@ Equipos funcionales pueden ser enviados a escuelas y entidades en países en des
 
 # Conclusión
 
-Reciclar y reutilizar dispositivos electrónicos no solo protege el medioambiente, sino que también contribuye a un manejo más sostenible de los recursos, reduce costos y apoya comunidades en necesidad.
+Reciclar y reutilizar dispositivos electrónicos no solo protege el medioambiente, sino que también contribuye a un manejo más sostenible de los recursos, reduce costos y apoya comunidades en necesidad.>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0OTk4NjcxN119
+-->
