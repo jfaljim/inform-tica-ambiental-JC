@@ -44,7 +44,7 @@ Los puntos de los que hablaremos son los siguientes:</p>
 </li>
 </ul>
 <p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvJ7JdiP0OUS3XK7NkNw7AXgRZC_hQ8hEbn02qRTdiIR0nhOmeIssT9f83xSDiZlrH_ECFK18VEWoyGv29Av2Cm5WYA0ZKypS-bWxZNpwx5z-KYhXnfDJq8CmhXl4geertgMlCEsdJD4UpVs9fssHu5_XA64XSUBOTfrDNPAPcl3jCtntpaEIDU6nQV_8b/s467/Analis%20de%20riesgos%20en%20la%20seguridad%20ocupacional%20-%20seguridadindustrialapuntes.png"></p>
-<p>Aunque en nuestro sector laboral la mayoría de riesgos no suceden, a los que nos exponemos son bastantes peligrosos, ya que la mala postura y la explotación laboral es algo a lo que estamos totalmente expuestos di</p>
+<p>Aunque en nuestro sector laboral la mayoría de riesgos no suceden, a los que nos exponemos son bastantes peligrosos, ya que la mala postura y la explotación laboral es algo a lo que estamos totalmente expuestos día a día</p>
 <h2 id="prevención-laboral">3. Prevención laboral</h2>
 <p>Esto hace referencia a los actos que se hacen para prevenir y evitar tanto riesgos como accidentes laborales<br>
 Esto se hace de distintas formas para cada puesto de trabajo, ya que cada uno de ellos es diferente entre sí<br>
@@ -71,6 +71,6 @@ Algunos de los ejemplos más comunes son:</p>
 <p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODEzNDc2OCwtMTU0OTQzMDE0MCwtNj
+eyJoaXN0b3J5IjpbMTQzMTE0NjYzNCwtMTU0OTQzMDE0MCwtNj
 I3NzQzMjYyLDQzNDAzMjk0NF19
 -->
