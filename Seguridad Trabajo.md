@@ -25,7 +25,7 @@ Los puntos de los que hablaremos son los siguientes:</p>
 <li>Eléctricos (exposición a instalaciones eléctricas defectuosas)</li>
 </ul>
 </li>
-<p><img src="https://previews.123rf.com/images/bortn66/bortn661112/bortn66111200013/11598172-la-construcci%C3%B3n-del-casco-y-guantes-de-protecci%C3%B3n-en-el-fondo-blanco.jpg"></p>
+<p><img src="https://img.interempresas.net/A/A875/3157711.webp"></p>
 <li>
 <p>Según su ámbito de influencia:</p>
 <ul>
@@ -68,6 +68,6 @@ Algunos de los ejemplos más comunes son:</p>
 <p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDgzNDU4MiwtNjI3NzQzMjYyLDQzND
+eyJoaXN0b3J5IjpbMjA5NDkwNzI2MiwtNjI3NzQzMjYyLDQzND
 AzMjk0NF19
 -->
