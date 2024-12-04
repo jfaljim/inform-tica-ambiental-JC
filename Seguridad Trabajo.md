@@ -42,6 +42,7 @@ Los puntos de los que hablaremos son los siguientes:</p>
 </ul>
 </li>
 </ul>
+<p><img src="https://www.coordinacae.com/wp-content/uploads/2022/07/matriz-de-analisis-de-riesgos-1200x579.png"></p>
 <h2 id="prevención-laboral">3. Prevención laboral</h2>
 <p>Esto hace referencia a los actos que se hacen para prevenir y evitar tanto riesgos como accidentes laborales<br>
 Esto se hace de distintas formas para cada puesto de trabajo, ya que cada uno de ellos es diferente entre sí<br>
@@ -68,6 +69,6 @@ Algunos de los ejemplos más comunes son:</p>
 <p><img src="https://www.ofiprix.com/blog_images/wp-content/uploads/2015/11/correcto-vs-incorrecto-ergonomia-720x446.jpg" alt="Cómo elegir una silla ergonómica: Características - Blog Ofiprix"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDkwNzI2MiwtNjI3NzQzMjYyLDQzND
+eyJoaXN0b3J5IjpbMTIyOTkxNjgxNiwtNjI3NzQzMjYyLDQzND
 AzMjk0NF19
 -->
