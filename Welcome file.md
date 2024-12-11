@@ -131,5 +131,22 @@ El objetivo es fomentar un ambiente laboral seguro y saludable.</p>
 </ul>
 </li>
 </ol>
-<p>Estas prácticas promueven un entorno de trabajo más seguro y saludable para quienes manejan sistemas informáticos en oficinas.</p>
+<p>Estas prácticas promueven un entorno de trabajo más seguro y saludable para quienes manejan sistemas informáticos en oficinas.<br>
+<strong>Prevención de Riesgos Psicosociales y Posturales en Oficinas Informáticas</strong></p>
+<p>Los riesgos psicosociales en el trabajo informático pueden generar estrés, desmotivación y absentismo. Para mitigarlos, se recomienda:</p>
+<ul>
+<li><strong>Rotación de tareas</strong> para evitar la monotonía y reducir problemas musculoesqueléticos.</li>
+<li><strong>Gestión del tiempo</strong> con tareas ajustadas a plazos realistas.</li>
+<li><strong>Atención al cliente</strong>: rotar al personal y ofrecer formación.</li>
+<li><strong>Intercambio de conocimientos</strong> entre empleados con distinta experiencia tecnológica.</li>
+<li><strong>Políticas de RSC</strong>: conciliación, flexibilidad horaria e igualdad de género.</li>
+<li><strong>Comunicación abierta</strong> para resolver problemas con clientes o compañeros.</li>
+</ul>
+<p><strong>Recomendaciones Posturales</strong></p>
+<ul>
+<li><strong>Apoyo de muñecas y antebrazos</strong>: usar reposabrazos o el borde de la mesa.</li>
+<li><strong>Postura correcta</strong>: mantener cuello, espalda y muñecas alineados, con la pantalla de frente.</li>
+<li><strong>Distancia a la pantalla</strong>: 60 cm (o 40 cm para pantallas FPD).</li>
+<li><strong>Uso de ajustes ergonómicos</strong>: ajustar la silla para un ángulo de 90º entre muslos y espalda.</li>
+</ul>
 
