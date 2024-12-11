@@ -133,7 +133,7 @@ El objetivo es fomentar un ambiente laboral seguro y saludable.</p>
 </ol>
 <p>Estas prácticas promueven un entorno de trabajo más seguro y saludable para quienes manejan sistemas informáticos en oficinas.<br>
 <strong>Prevención de Riesgos Psicosociales y Posturales en Oficinas Informáticas</strong></p>
-<p>Los riesgos psicosociales en el trabajo informático pueden generar estrés, desmotivación y absentismo. Para mitigarlos, se recomienda:</p>
+<h1 id="los-riesgos-psicosociales-en-el-trabajo-informático-pueden-generar-estrés-desmotivación-y-absentismo.-para-mitigarlos-se-recomienda">Los riesgos psicosociales en el trabajo informático pueden generar estrés, desmotivación y absentismo. Para mitigarlos, se recomienda:</h1>
 <ul>
 <li><strong>Rotación de tareas</strong> para evitar la monotonía y reducir problemas musculoesqueléticos.</li>
 <li><strong>Gestión del tiempo</strong> con tareas ajustadas a plazos realistas.</li>
